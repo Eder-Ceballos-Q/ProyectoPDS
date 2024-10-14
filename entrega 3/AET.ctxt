@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=AET
+comment1.params=tipo\ nombre\ fechaInicio\ fechaFin\ id\ descripcion
+comment1.target=AET(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+numComments=2

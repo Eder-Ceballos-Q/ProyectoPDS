@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Paciente
+comment1.params=nombre\ id\ edad\ email\ contrase\u00F1a
+comment1.target=Paciente(java.lang.String,\ int,\ int,\ java.lang.String,\ java.lang.String)
+comment2.params=paciente
+comment2.target=void\ register(Paciente)
+comment3.params=id\ contrase\u00F1a
+comment3.target=void\ login(int,\ java.lang.String)
+comment4.params=
+comment4.target=void\ inputData()
+comment5.params=c
+comment5.target=void\ solicitarCita(Cita)
+comment6.params=
+comment6.target=void\ consultarCitas()
+comment7.params=c
+comment7.target=void\ cancelarCita(Cita)
+numComments=8

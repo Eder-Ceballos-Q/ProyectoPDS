@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Interfaz
+comment1.params=pacientes\ medicos
+comment1.target=Interfaz(java.util.ArrayList,\ java.util.ArrayList)
+comment2.params=
+comment2.target=javax.swing.JPanel\ crearPanelSolicitarCita()
+comment3.params=
+comment3.target=javax.swing.JPanel\ crearPanelConsultarCitas()
+comment4.params=
+comment4.target=javax.swing.JPanel\ crearPanelEliminarCitas()
+comment5.params=
+comment5.target=void\ solicitarCita()
+comment6.params=pacienteSeleccionado
+comment6.target=void\ consultarCitas(java.lang.String)
+comment7.params=
+comment7.target=void\ cargarCitasParaEliminar()
+comment8.params=
+comment8.target=void\ eliminarCita()
+comment9.params=nombre
+comment9.target=Medico\ getMedicoByName(java.lang.String)
+numComments=10
